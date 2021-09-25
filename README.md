@@ -1,10 +1,14 @@
-### Hi there 👋
+### 👋 Hi there 
+
+I'm Tadeo Armenta
+
+A senior full-stack developer from Spain. I'm a 40 years old guy, with 3 beautiful kids, so, as you can imagine, I'm dead serious about working matters, I'm extremely disciplined, proactive, and a proficient developer, with broad experience in NodeJS and its stacks.
+
+- Take a look at [my website, tadeoarmenta.com](https://tadeoarmenta.com)!
+- 💼  Find me on [Upwork](https://www.upwork.com/fl/tadeoarmenta 'Upwork')
+
 
 <!--
-**TadeoArmenta/TadeoArmenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Stats!
+![Tadeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TadeoArmenta&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TadeoArmenta&layout=compact&theme=dark&hide=C,PHP,Objective-C,Assembly,CSS,Makefile&langs_count=8)
