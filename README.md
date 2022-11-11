@@ -10,7 +10,7 @@ I'm Tadeo Armenta
 ![Typescript](https://img.shields.io/badge/typescript%20-%23FFFFFF.svg?&style=for-the-badge&logo=typescript&logoColor=blue)
 ![AWS](https://img.shields.io/badge/AWS-%23FFFFFF?logo=amazon-aws&logoColor=orange&style=for-the-badge)
 
-A senior full-stack developer from Spain. I'm a 40 years old guy, with 3 beautiful kids, so, as you can imagine, I'm dead serious about working matters, I'm extremely disciplined, proactive, and a proficient developer, with broad experience in NodeJS and its stacks.
+A senior full-stack developer from Spain. I'm a 42 years old guy, with 3 beautiful kids, so, as you can imagine, I'm dead serious about working matters, I'm extremely disciplined, proactive, and a proficient developer, with broad experience in NodeJS and its stacks.
 
 
 - Take a look at [my website, tadeoarmenta.com](https://tadeoarmenta.com)!
