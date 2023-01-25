@@ -1,8 +1,9 @@
 ### 👋 Hi there 
 
-I'm Tadeo Armenta
-
+I'm Carlos Armenta
+<!---
 [![Twitter](https://img.shields.io/twitter/follow/TadeoArmenta.svg?style=social&label=@TadeoArmenta)](https://twitter.com/TadeoArmenta)
+--->
 [![GitHub followers](https://img.shields.io/github/followers/TadeoArmenta?style=social)](https://github.com/TadeoArmenta)
 
 ![Serverless](https://img.shields.io/badge/Serverless-%23FFFFFF?logo=serverless&logoColor=red&style=for-the-badge)
@@ -12,10 +13,10 @@ I'm Tadeo Armenta
 
 A senior full-stack developer from Spain. I'm a 42 years old guy, with 3 beautiful kids, so, as you can imagine, I'm dead serious about working matters, I'm extremely disciplined, proactive, and a proficient developer, with broad experience in NodeJS and its stacks.
 
-
+<!---
 - Take a look at [my website, tadeoarmenta.com](https://tadeoarmenta.com)!
 - 💼  Find me on [Upwork](https://www.upwork.com/fl/tadeoarmenta 'Upwork')
-
+--->
 
 <!--
 - 🔭 I’m currently working on ...
@@ -28,6 +29,7 @@ A senior full-stack developer from Spain. I'm a 42 years old guy, with 3 beautif
 - ⚡ Fun fact: ...
 -->
 ### Stats!
+<!---
 ![Tadeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TadeoArmenta&count_private=true&show_icons=true&theme=dark)
-
+--->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TadeoArmenta&layout=compact&theme=dark&hide=C,PHP,Objective-C,Assembly,CSS,Makefile&langs_count=8)
