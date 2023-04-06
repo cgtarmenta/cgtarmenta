@@ -32,4 +32,4 @@ A senior full-stack developer from Spain. I'm a 42 years old guy, with 3 beautif
 <!---
 ![Tadeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=TadeoArmenta&count_private=true&show_icons=true&theme=dark)
 --->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TadeoArmenta&layout=compact&theme=dark&hide=C,PHP,Objective-C,Assembly,CSS,Makefile&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cgtarmenta&layout=compact&theme=dark&hide=C,PHP,Objective-C,Assembly,CSS,Makefile&langs_count=8)
