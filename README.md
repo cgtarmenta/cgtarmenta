@@ -1,10 +1,10 @@
-### 👋 Hi there 
+a### 👋 Hi there 
 
 I'm Carlos Armenta
 <!---
 [![Twitter](https://img.shields.io/twitter/follow/TadeoArmenta.svg?style=social&label=@TadeoArmenta)](https://twitter.com/TadeoArmenta)
 --->
-[![GitHub followers](https://img.shields.io/github/followers/TadeoArmenta?style=social)](https://github.com/TadeoArmenta)
+[![GitHub followers](https://img.shields.io/github/followers/cgtarmenta?style=social)](https://github.com/TadeoArmenta)
 
 ![Serverless](https://img.shields.io/badge/Serverless-%23FFFFFF?logo=serverless&logoColor=red&style=for-the-badge)
 ![VUE](https://img.shields.io/badge/VUE-%23FFFFFF?logo=vue.js&logoColor=green&style=for-the-badge)
