@@ -1,4 +1,4 @@
-a### 👋 Hi there 
+👋 Hi there 
 
 I'm Carlos Armenta
 <!---
