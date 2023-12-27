@@ -7,11 +7,18 @@ I'm Carlos Armenta
 [![GitHub followers](https://img.shields.io/github/followers/cgtarmenta?style=social)](https://github.com/TadeoArmenta)
 
 ![Serverless](https://img.shields.io/badge/Serverless-%23FFFFFF?logo=serverless&logoColor=red&style=for-the-badge)
-![VUE](https://img.shields.io/badge/VUE-%23FFFFFF?logo=vue.js&logoColor=green&style=for-the-badge)
-![Typescript](https://img.shields.io/badge/typescript%20-%23FFFFFF.svg?&style=for-the-badge&logo=typescript&logoColor=blue)
+![Terraform](https://img.shields.io/badge/terraform-%23FFFFFF?logo=terraform&logoColor=purple&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-%23FFFFFF?logo=amazon-aws&logoColor=orange&style=for-the-badge)
+![Mongo](https://img.shields.io/badge/mongodb-%23FFFFFF?logo=mongodb&logoColor=green&style=for-the-badge)
+![Node](https://img.shields.io/badge/Node-%23FFFFFF?logo=nodedotjs&logoColor=green&style=for-the-badge)
+![Typescript](https://img.shields.io/badge/typescript%20-%23FFFFFF.svg?&style=for-the-badge&logo=typescript&logoColor=blue)
+![VUE](https://img.shields.io/badge/VUE-%23FFFFFF?logo=vue.js&logoColor=green&style=for-the-badge)
 
-A senior full-stack developer from Spain. I'm a 42 years old guy, with 3 beautiful kids, so, as you can imagine, I'm dead serious about working matters, I'm extremely disciplined, proactive, and a proficient developer, with broad experience in NodeJS and its stacks.
+
+
+
+
+A senior full-stack developer from Spain. I'm a 43 years old guy, with 3 beautiful kids, so, as you can imagine, I'm dead serious about working matters, I'm extremely disciplined, proactive, and a proficient developer, with broad experience in NodeJS and its stacks.
 
 <!---
 - Take a look at [my website, tadeoarmenta.com](https://tadeoarmenta.com)!
