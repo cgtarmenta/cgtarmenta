@@ -4,7 +4,7 @@ I'm Carlos Armenta
 <!---
 [![Twitter](https://img.shields.io/twitter/follow/TadeoArmenta.svg?style=social&label=@TadeoArmenta)](https://twitter.com/TadeoArmenta)
 --->
-[![GitHub followers](https://img.shields.io/github/followers/cgtarmenta?style=social)]([https://github.com/cgtarmenta](https://github.com/cgtarmenta?tab=followers))
+[![GitHub followers](https://img.shields.io/github/followers/cgtarmenta?style=social)]([https://github.com/cgtarmenta?tab=followers])
 
 ![Serverless](https://img.shields.io/badge/Serverless-%23FFFFFF?logo=serverless&logoColor=red&style=for-the-badge)
 ![Terraform](https://img.shields.io/badge/terraform-%23FFFFFF?logo=terraform&logoColor=purple&style=for-the-badge)
