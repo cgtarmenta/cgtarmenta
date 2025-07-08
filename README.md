@@ -18,7 +18,7 @@ I'm Carlos Armenta
 
 
 
-A senior full-stack developer from Spain. I'm a 43 years old guy, with 3 beautiful kids, so, as you can imagine, I'm dead serious about working matters, I'm extremely disciplined, proactive, and a proficient developer, with broad experience in NodeJS and its stacks.
+A senior full-stack developer from Spain. I'm a 44 years old guy, with 3 beautiful kids, so, as you can imagine, I'm dead serious about working matters, I'm extremely disciplined, proactive, and a proficient developer, with broad experience in NodeJS and its stacks.
 
 <!---
 - Take a look at [my website, tadeoarmenta.com](https://tadeoarmenta.com)!
